@@ -1,7 +1,10 @@
 # RPGDice-bot
 A Telegram bot to roll dice for RPG games
 
-Put your Telegram token in the init() function and off you go!
+Made using [python-telegram-bot](https://python-telegram-bot.org/)
+
+# setup
+Get a bot token from @BotFather, add the token in the init() function and off you go!
 
 Example commands:
 
